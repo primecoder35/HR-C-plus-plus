@@ -2,8 +2,12 @@
 #include <cstdio>
 using namespace std;
 
+/* The for loops go through the values in the inputted range. If it is between 1 and 9, it prints out the word version of the number. 
+   if it is above 9, it prints whether it is even or odd. */
+
+
+
 int main() {
-    // Complete the code.
     int a;
     int b, n;
     
