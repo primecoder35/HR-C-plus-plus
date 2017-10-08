@@ -5,9 +5,9 @@
 #include <algorithm>
 using namespace std;
 
+//Sum the three inputs
 
-int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
+int main() { 
     int a,b,c;
     int tot;
     cin >> a;
