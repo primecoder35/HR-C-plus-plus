@@ -23,6 +23,7 @@
 
 using namespace std;
 
+/*Print out the word version of the numbers if 9 or below. If above, it prints that it is greater than 9 */
 
 int main(){
     int n;
