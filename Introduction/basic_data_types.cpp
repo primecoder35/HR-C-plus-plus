@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    // Complete the code.
+    //Printing one of every data type
     int a;
     long b;
     char c;
